@@ -11,4 +11,5 @@ void imprimir_transposta(int vet[]);
 int matriz_identidade(int vet[], int n);
 void multiplicar_matriz(int vet1[], int vet2[], int vet3[]);
 int verificar_inversa(int vet1[], int vet2[]);
+
 #endif
