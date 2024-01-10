@@ -4,11 +4,16 @@ Este repositório contém várias implementações de estruturas de dados e algo
 
 ## Conteúdo
 
-1. Fila Circular com Prioridade
-2. Torre de Hanói
-3. Pilha LIFO
-4. Operações de Matriz
-5. Verificação de Símbolos Balanceados
+1. Manipulação de Arquivos CSV
+2. Fila Circular com Prioridade
+3. Torre de Hanói
+4. Pilha LIFO
+5. Operações de Matriz
+6. Verificação de Símbolos Balanceados
+
+### Manipulação de Arquivos CSV
+
+Implementação de um programa que manipula um arquivo CSV. Ele permite adicionar linhas, pesquisar por nome e remover linhas.
 
 ### Fila Circular com Prioridade
 
@@ -32,7 +37,7 @@ Implementação de uma pilha para verificar se os símbolos em uma expressão es
 
 ## Como usar
 
-Para compilar qualquer um dos códigos, use o seguinte comando:
+Para compilar a maioria um dos códigos, use o seguinte comando:
 
 ```bash
 gcc nome_do_arquivo.c -o nome_do_arquivo
